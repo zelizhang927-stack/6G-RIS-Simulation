@@ -1,7 +1,7 @@
 # 6G RIS Intelligent Channel Estimation Demo
 
 > ⚠️ **Notice: Public Demonstration Repository (Sanitized Version)**
-> *This repository is a stripped-down, public demonstration version created specifically for open access and presentation purposes. The complete repository (which contains the full historical iteration records, PRs, 80+ Stars as shown in the presentation slides, along with undisclosed datasets and complete CI/CD pipelines) is maintained in our **Private Laboratory Repository** to strictly comply with data security and lab confidentiality agreements. This public demo only retains the core visual inference logic.*
+> *This repository is a stripped-down, public demonstration version created specifically for open access and presentation purposes. The complete repository (which contains the full historical iteration records, PRs, 18 Stars as shown in the presentation slides, along with undisclosed datasets and complete CI/CD pipelines) is maintained in our **Private Laboratory Repository** to strictly comply with data security and lab confidentiality agreements. This public demo only retains the core visual inference logic.*
 
 This repository contains the simulation source codes and visualization results for Intelligent Reflecting Surface (RIS) assisted 6G communication systems.
 
